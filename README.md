@@ -12,4 +12,4 @@ Predecir la deserción estudiantil a partir de datos académicos, personales y s
 DecisionTreeClassifier, RandomForestClassifier, SVC, KFold Cross-Validation, DNN (Dense, ReLU, Adam, BinaryCrossentropy), StandardScaler.
 
 ## LINK YOUTUBE: https://youtu.be/x51KR3Z-IbA
-### Link Dataset (kaggle) ![Kaggle](https://www.kaggle.com/datasets/abdullah0a/student-dropout-analysis-and-prediction-dataset/data)
+### Link Dataset (kaggle) [Kaggle](https://www.kaggle.com/datasets/abdullah0a/student-dropout-analysis-and-prediction-dataset/data)
